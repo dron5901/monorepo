@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.20.0](https://github.com/dron5901/monorepo/compare/avash_monorepo_ts@0.11.0...avash_monorepo_ts@0.20.0) (2023-12-13)
+
+### Features
+
+* **all:** all ([c6a7085](https://github.com/dron5901/monorepo/commit/c6a708549393a7253632ca4602102d3128a1034f))
+* **ts:** skip lib false ([50f46a7](https://github.com/dron5901/monorepo/commit/50f46a7b8763635a21c81f8615c31e93c6885399))
+
+# 0.19.0 (2023-12-13)
+
 # [0.19.0](https://github.com/dron5901/monorepo/compare/v0.10.0...v0.19.0) (2023-12-13)
 
 **Note:** Version bump only for package avash_monorepo_ts
