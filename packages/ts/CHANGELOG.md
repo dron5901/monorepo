@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.4.0](https://github.com/dron5901/monorepo/compare/v0.3.0...v0.4.0) (2023-12-13)
+
+### Features
+
+* **ts:** update tsconfig ([b95373e](https://github.com/dron5901/monorepo/commit/b95373e83c0a1b5ec071d51147114ab43ec69fdf))
+
 # [0.3.0](https://github.com/dron5901/monorepo/compare/v0.2.0...v0.3.0) (2023-12-13)
 
 **Note:** Version bump only for package avash_monorepo_ts
