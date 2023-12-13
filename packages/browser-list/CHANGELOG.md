@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.7.0](https://github.com/dron5901/monorepo/compare/v0.6.0...v0.7.0) (2023-12-13)
+
+### Features
+
+* **bl:** remove ie ([84a6d9d](https://github.com/dron5901/monorepo/commit/84a6d9db7b79837d237855b29338ff8df0c96b4f))
+
 # [0.6.0](https://github.com/dron5901/monorepo/compare/v0.5.0...v0.6.0) (2023-12-13)
 
 **Note:** Version bump only for package avash_monorepo_bl
