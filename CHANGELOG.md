@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.10.0](https://github.com/dron5901/monorepo/compare/v0.9.0...v0.10.0) (2023-12-13)
+
+### Features
+
+* **bl:** ff 108 ([fb30dbd](https://github.com/dron5901/monorepo/commit/fb30dbd1cbd91447938320f44b20b88c2ee0abe0))
+
 # [0.9.0](https://github.com/dron5901/monorepo/compare/v0.8.0...v0.9.0) (2023-12-13)
 
 ### Features
