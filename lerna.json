@@ -1,10 +1,12 @@
 {
   "$schema": "node_modules/@lerna-lite/cli/schemas/lerna-schema.json",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "useWorkspaces": true,
   "command": {
     "version": {
-      "allowBranch": ["main"],
+      "allowBranch": [
+        "main"
+      ],
       "yes": true,
       "conventionalCommits": true,
       "message": "chore(release): Publish %s [skip ci]"
