@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.6.0](https://github.com/dron5901/monorepo/compare/v0.5.0...v0.6.0) (2023-12-13)
+
+### Features
+
+* **m:** added ignore changes field ([a597d89](https://github.com/dron5901/monorepo/commit/a597d899e53865e30c4cb3e4ee323ee74a55db13))
+* **ts:** skip lib true ([8d8a266](https://github.com/dron5901/monorepo/commit/8d8a2669cddb5abf7006edeea7578873eba6ae0d))
+
 # [0.5.0](https://github.com/dron5901/monorepo/compare/v0.4.0...v0.5.0) (2023-12-13)
 
 ### Features
