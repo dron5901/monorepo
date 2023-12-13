@@ -2,5 +2,12 @@
   "$schema": "node_modules/@lerna-lite/cli/schemas/lerna-schema.json",
   "version": "0.0.0",
   "useWorkspaces": true,
-  "allowBranch": ["main"]
+  "command": {
+    "version": {
+      "allowBranch": ["main"],
+      "yes": true,
+      "conventionalCommits": true,
+      "message": "chore(release): Publish %s [skip ci]"
+    }
+  }
 }
