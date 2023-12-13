@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.8.0](https://github.com/dron5901/monorepo/compare/v0.7.0...v0.8.0) (2023-12-13)
+
+### Features
+
+* **bl:** chrome 115 ([ca0d454](https://github.com/dron5901/monorepo/commit/ca0d454563d26a7d58cdf72b2aaad998ae231e07))
+
 # [0.7.0](https://github.com/dron5901/monorepo/compare/v0.6.0...v0.7.0) (2023-12-13)
 
 ### Features
