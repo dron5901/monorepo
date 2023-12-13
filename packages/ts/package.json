@@ -4,5 +4,8 @@
   "files": [
     "tsconfig.json"
   ],
+  "scripts": {
+    "prepublishOnly": "echo \"prepublish ts\""
+  },
   "gitHead": "198aea8d7c26fc894f650ce9af661ddfdda1f6be"
 }

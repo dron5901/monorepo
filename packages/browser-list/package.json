@@ -4,5 +4,8 @@
   "files": [
     "index.js"
   ],
+  "scripts": {
+    "prepublishOnly": "echo \"prepublish bl\""
+  },
   "gitHead": "198aea8d7c26fc894f650ce9af661ddfdda1f6be"
 }
