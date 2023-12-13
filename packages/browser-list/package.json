@@ -1,6 +1,6 @@
 {
   "name": "avash_monorepo_bl",
-  "version": "0.14.0",
+  "version": "0.14.1",
   "files": [
     "index.js"
   ],
