@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.22.0](https://github.com/dron5901/monorepo/compare/avash_monorepo_bl@0.21.0...avash_monorepo_bl@0.22.0) (2023-12-13)
+
+### Features
+
+* **bl:** ff 110 ([5fe1324](https://github.com/dron5901/monorepo/commit/5fe132449c79c5c684e2b38e2d13874ad8205159))
+
+### BREAKING CHANGES
+
+* **bl:** update to lerna 2.6.0
+
 # [0.21.0](https://github.com/dron5901/monorepo/compare/avash_monorepo_bl@0.20.0...avash_monorepo_bl@0.21.0) (2023-12-13)
 
 ### Features
