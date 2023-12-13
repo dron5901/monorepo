@@ -1,7 +1,8 @@
 {
-  "name": "monorepo_ts",
+  "name": "avash_monorepo_ts",
   "version": "0.1.0",
   "files": [
     "tsconfig.json"
-  ]
+  ],
+  "gitHead": "198aea8d7c26fc894f650ce9af661ddfdda1f6be"
 }
