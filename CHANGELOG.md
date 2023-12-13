@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.23.0](https://github.com/dron5901/monorepo/compare/v0.19.0...v0.23.0) (2023-12-13)
+
+### Features
+
+* **all:** all ([c6a7085](https://github.com/dron5901/monorepo/commit/c6a708549393a7253632ca4602102d3128a1034f))
+* **bl:** ff 108 ([fab4557](https://github.com/dron5901/monorepo/commit/fab4557e020afca26f4a94e5f248e4fca9051d39))
+* **bl:** ff 108 ([d1db859](https://github.com/dron5901/monorepo/commit/d1db8590ea47d8834e6c57744cfd09fe0b62bd99))
+* **bl:** ff 108 ([2e2ca66](https://github.com/dron5901/monorepo/commit/2e2ca664e7827c245212d3e3995483fb12ef8739))
+* **bl:** ff 110 ([5fe1324](https://github.com/dron5901/monorepo/commit/5fe132449c79c5c684e2b38e2d13874ad8205159))
+* **bl:** ff 110 ([2390dd9](https://github.com/dron5901/monorepo/commit/2390dd9f7d8f410e2d4daebc7e3e3bcfba1b9e25))
+* **ts:** skip lib false ([50f46a7](https://github.com/dron5901/monorepo/commit/50f46a7b8763635a21c81f8615c31e93c6885399))
+
+### BREAKING CHANGES
+
+* **bl:** добавлены новые зависимости и команды
+* **bl:** update to lerna 2.6.0
+
 # [0.19.0](https://github.com/dron5901/monorepo/compare/v0.10.0...v0.19.0) (2023-12-13)
 
 ### Features

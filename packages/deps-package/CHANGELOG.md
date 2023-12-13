@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.23.0](https://github.com/dron5901/monorepo/compare/v0.19.0...v0.23.0) (2023-12-13)
+
+### Features
+
+* **all:** all ([c6a7085](https://github.com/dron5901/monorepo/commit/c6a708549393a7253632ca4602102d3128a1034f))
+
 ## [0.20.1](https://github.com/dron5901/monorepo/compare/avash_monorepo_deps_package@0.20.0...avash_monorepo_deps_package@0.20.1) (2023-12-13)
 
 **Note:** Version bump only for package avash_monorepo_deps_package

@@ -1,11 +1,11 @@
 {
   "name": "avash_monorepo_deps_package",
-  "version": "0.20.1",
+  "version": "0.23.0",
   "files": [
     "index.js"
   ],
   "dependencies": {
-    "avash_monorepo_bl": "0.22.0"
+    "avash_monorepo_bl": "0.23.0"
   },
   "scripts": {
     "prepublishOnly": "echo \"prepublish deps\""
