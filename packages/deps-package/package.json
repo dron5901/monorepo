@@ -1,11 +1,11 @@
 {
   "name": "avash_monorepo_deps_package",
-  "version": "0.12.4",
+  "version": "0.12.5-alpha.0",
   "files": [
     "index.js"
   ],
   "dependencies": {
-    "avash_monorepo_bl": "0.16.0"
+    "avash_monorepo_bl": "0.17.0-alpha.0"
   },
   "gitHead": "198aea8d7c26fc894f650ce9af661ddfdda1f6be"
 }

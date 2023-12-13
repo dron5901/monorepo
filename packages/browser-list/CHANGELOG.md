@@ -3,6 +3,12 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.17.0-alpha.0](https://github.com/dron5901/monorepo/compare/avash_monorepo_bl@0.16.0...avash_monorepo_bl@0.17.0-alpha.0) (2023-12-13)
+
+### Features
+
+* **bl:** ff 110 ([6d9fea3](https://github.com/dron5901/monorepo/commit/6d9fea37e152ce10f889fc7ab92578d9ba3ca748))
+
 # [0.16.0](https://github.com/dron5901/monorepo/compare/avash_monorepo_bl@0.15.0...avash_monorepo_bl@0.16.0) (2023-12-13)
 
 ### Features
