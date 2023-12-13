@@ -1,6 +1,6 @@
 {
   "name": "avash_monorepo_deps_package",
-  "version": "0.23.0",
+  "version": "1.0.0",
   "files": [
     "index.js"
   ],
