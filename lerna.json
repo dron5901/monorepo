@@ -13,7 +13,8 @@
     }
   },
   "ignoreChanges": [
-    "**/CHANGELOG.md"
+    "**/CHANGELOG.md",
+    "**/package.json"
   ],
   "yes": false,
   "exact": true,
