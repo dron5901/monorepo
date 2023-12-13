@@ -15,6 +15,7 @@
   "ignoreChanges": [
     "**/CHANGELOG.md"
   ],
-  "yes": true,
+  "yes": false,
+  "exact": true,
   "syncWorkspaceLock": true
 }
