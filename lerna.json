@@ -11,5 +11,8 @@
       "conventionalCommits": true,
       "message": "chore(release): Publish %s [skip ci]"
     }
-  }
+  },
+  "ignoreChanges": [
+    "**/CHANGELOG.md"
+  ]
 }
