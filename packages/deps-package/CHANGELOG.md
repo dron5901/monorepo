@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.0.0](https://github.com/dron5901/monorepo/compare/v0.23.0...v2.0.0) (2023-12-13)
+
+### Features
+
+* **bl:** ff 110 ([2fab843](https://github.com/dron5901/monorepo/commit/2fab843e474d931155017bde05c12adb52f511ac))
+
+### BREAKING CHANGES
+
+* **bl:** добавлены новые зависимости и команды
+
 # [0.23.0](https://github.com/dron5901/monorepo/compare/v0.19.0...v0.23.0) (2023-12-13)
 
 ### Features
