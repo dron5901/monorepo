@@ -16,7 +16,6 @@
     "**/CHANGELOG.md",
     "**/package.json"
   ],
-  "yes": false,
   "exact": true,
   "syncWorkspaceLock": true
 }
