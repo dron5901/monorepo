@@ -5,7 +5,7 @@
     "index.js"
   ],
   "dependencies": {
-    "avash_monorepo_bl": "0.23.0"
+    "avash_monorepo_bl": "3.1.0"
   },
   "scripts": {
     "prepublishOnly": "echo \"prepublish deps\""
