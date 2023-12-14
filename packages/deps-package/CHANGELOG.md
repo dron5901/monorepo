@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/dron5901/monorepo/compare/avash_monorepo_deps_package@0.20.1...avash_monorepo_deps_package@3.0.0) (2023-12-14)
+
+### Features
+
+* **bl:** update bl ([5d2afd8](https://github.com/dron5901/monorepo/commit/5d2afd8b21a63e53485da34b7b126ebfeb3b8987))
+
+# 2.0.0 (2023-12-13)
+
+### Features
+
+* **bl:** ff 110 ([2fab843](https://github.com/dron5901/monorepo/commit/2fab843e474d931155017bde05c12adb52f511ac))
+
+### BREAKING CHANGES
+
+* **bl:** добавлены новые зависимости и команды
+
+# 0.23.0 (2023-12-13)
+
 # [2.0.0](https://github.com/dron5901/monorepo/compare/v0.23.0...v2.0.0) (2023-12-13)
 
 ### Features
